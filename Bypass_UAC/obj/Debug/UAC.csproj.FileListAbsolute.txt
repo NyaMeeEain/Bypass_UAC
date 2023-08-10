@@ -1,0 +1,8 @@
+C:\Users\NyaMeeEain\source\repos\UAC\bin\Debug\UAC.exe.config
+C:\Users\NyaMeeEain\source\repos\UAC\bin\Debug\UAC.exe
+C:\Users\NyaMeeEain\source\repos\UAC\bin\Debug\UAC.pdb
+C:\Users\NyaMeeEain\source\repos\UAC\obj\Debug\UAC.csproj.AssemblyReference.cache
+C:\Users\NyaMeeEain\source\repos\UAC\obj\Debug\UAC.csproj.SuggestedBindingRedirects.cache
+C:\Users\NyaMeeEain\source\repos\UAC\obj\Debug\UAC.csproj.CoreCompileInputs.cache
+C:\Users\NyaMeeEain\source\repos\UAC\obj\Debug\UAC.exe
+C:\Users\NyaMeeEain\source\repos\UAC\obj\Debug\UAC.pdb
